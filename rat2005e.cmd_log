@@ -1,0 +1,180 @@
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e_preroute rat2005e_map.ncd -o rat2005e_preroute.twr rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -dd _ngo -nt timestamp -uc rat2005e_rev2p0_101405.ucf -p xc2s50e-pq208-6 rat2005e.ngc rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -dd _ngo -nt timestamp -uc "rat2005e_rev2p0_101405.ucf" -p xc2s50e-pq208-6 "rat2005e.ngc" rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf -ucf rat2005e_rev2p0_101405.ucf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -dd _ngo -nt timestamp -uc "rat2005e_rev2p0_101405.ucf" -p xc2s50e-pq208-6 "rat2005e.ngc" rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf -ucf rat2005e_rev2p0_101405.ucf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -dd _ngo -nt timestamp -uc "rat2005e_rev2p0_101405.ucf" -p xc2s50e-pq208-6 "rat2005e.ngc" rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf -ucf rat2005e_rev2p0_101405.ucf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -dd _ngo -nt timestamp -uc "rat2005e_rev2p0_101405.ucf" -p xc2s50e-pq208-6 "rat2005e.ngc" rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf -ucf rat2005e_rev2p0_101405.ucf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -f rat2005e.ut rat2005e.ncd
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -dd _ngo -nt timestamp -uc "rat2005e_rev2p0_101405.ucf" -p xc2s50e-pq208-6 "rat2005e.ngc" rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf -ucf rat2005e_rev2p0_101405.ucf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -dd _ngo -nt timestamp -uc "rat2005e_rev2p0_101405.ucf" -p xc2s50e-pq208-6 "rat2005e.ngc" rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf -ucf rat2005e_rev2p0_101405.ucf
+xst -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -ifn rat2005e.xst -ofn rat2005e.syr
+ngdbuild -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -dd _ngo -nt timestamp -uc "rat2005e_rev2p0_101405.ucf" -p xc2s50e-pq208-6 "rat2005e.ngc" rat2005e.ngd
+map -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -p xc2s50e-pq208-6 -cm area -pr b -k 4 -c 100 -tx off -o rat2005e_map.ncd rat2005e.ngd rat2005e.pcf
+par -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -w -intstyle ise -ol std -t 1 rat2005e_map.ncd rat2005e.ncd rat2005e.pcf
+trce -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -e 3 -l 3 -s 6 -xml rat2005e rat2005e.ncd -o rat2005e.twr rat2005e.pcf -ucf rat2005e_rev2p0_101405.ucf
+bitgen -ise "D:/RAT2005/Xilinx/rat2005e/rat2005e.ise" -intstyle ise -f rat2005e.ut rat2005e.ncd
